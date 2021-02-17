@@ -1,0 +1,86 @@
+examine - zbadać
+naming convention - konwecja nazywania
+bottle -butelka
+pour - przelać
+Which - który
+incorporates - zawiera dotyczy
+handling - obsługa
+provided - dostarczone 
+executed - wykonywane
+perform - wykonać
+segregates - segregować
+compare - porównać
+expression - wyrażenie
+subtype - podtyp
+Therefore - w związku z tym 
+behaves - zachowuje się
+in order - w porządku
+insertion - wprowadzenie umieszczenie
+retained  - zachowane
+However - jednak
+constraint - przymus wymuszenie przemoc presja
+since -odkąd, skoro
+perform - wykonać działać dokonać
+frequently  - często
+widely - szeroko
+introduction - wprowadzenie
+restrict - ograniczać, ścieśniać
+Internally - wewnetrznie
+based - na podstawie
+efficient - wydajny
+solution - rozwiązanie
+comparison - porównanie
+shortening - skracanie
+reachable - osiągalny
+objective - cel
+perpendicularly - pionowo
+horizontally - poziomo
+uzyskać - uzyskać
+pass on - przesłać dalej
+cutting edge - pionierski nowatorski
+surveillence - inwigialcja
+exterior - zewnętrzny
+rulers - władcy
+centuries - wieki
+gain - zdobyć
+assess - oszacować
+threats - zagrożenia
+tiny - malutki
+eavesdrop - podsłuchiwać
+aerial - antenowy
+conceal - ukryć
+various - różny
+maid - pokojówka
+wore - wore
+embassy - ambasada
+receiver - odbiorca
+marveled - zachwycony
+circumstances - okoliczności
+hung it - powiesić
+seal apart - uszczelniać
+in it about the size - w tym rozmiarze
+thick - gruby(był gruby na 0,5cm)
+rod - pręt
+eagle - orzeł
+ongoing - trwający
+pervasive - rozpowszechniony
+duscreet - dyskretny
+convey - przynieść wyrażać
+intent - zamiar
+abbreviation - skróty
+confusing - mylącę
+avoid - unikać
+notations - notacji
+highlighted - podświetlone
+appropriately - odpowiednio
+delimited - rozdzielany
+precedes - poprzedza
+contains - zawiera
+commas - przecinki
+placeholders - symbole zastępcze
+are known - są znane
+as - jako
+either - zarówno
+determines - określa
+might  - moc
+bounded - zobowiązany
